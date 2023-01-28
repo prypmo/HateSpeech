@@ -36,5 +36,6 @@
   "model_name": "bert-base-multilingual-uncased",
   "model_type": "bert",
   "name": "sent_ana_port",
-  "version": "3.1.0"
+  "version": "3.1.0",
+  "config_id": 1
 }
